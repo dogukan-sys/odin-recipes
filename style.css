@@ -1,4 +1,20 @@
-div {
+body{
+  background-image: url(images/Background.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  padding: 2%;
   text-align: center;
-  background-color: dark;
 }
+div.transbox {
+  margin: 30px;
+  background-color: #ffffff;
+  border: 1px solid black;
+  opacity: 0.6;
+}
+
+div.transbox * {
+  margin: 1%;
+  font-weight: bold;
+  color: #000000;
+}
+
