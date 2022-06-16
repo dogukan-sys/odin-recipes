@@ -35,3 +35,7 @@ a.button {
   backdrop-filter: blur(20px);
   
 }
+
+li{
+  padding: 1ex;
+}
