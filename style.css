@@ -15,7 +15,11 @@ div.transbox {
 
 }
 
+
 ul {
+  display: inline-table;
+}
+ol {
   display: inline-table;
 }
 
