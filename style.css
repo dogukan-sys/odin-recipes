@@ -7,14 +7,10 @@ body{
 }
 div.transbox {
   margin: 30px;
-  background-color: #ffffff;
   border: 1px solid black;
-  opacity: 0.6;
+  background-color: rgba(255, 255, 255, 0.2);
 }
 
-div.transbox * {
-  margin: 1%;
-  font-weight: bold;
-  color: #000000;
+ul {
+  display: inline-table;
 }
-
